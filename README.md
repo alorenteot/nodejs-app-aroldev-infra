@@ -1,4 +1,4 @@
-# CI/CD Lab with Jenkins and ArgoCD
+# CI/CD Lab with Jenkins and ArgoCD de Sala 4
 
 Este laboratorio te guiará a través de la configuración de un pipeline CI/CD que automatiza el despliegue de una aplicación Node.js utilizando **Jenkins** y **ArgoCD**, aplicando principios GitOps. Trabajarás con dos repositorios: uno para el código de la aplicación y otro para el **Helm chart** que gestiona los despliegues en Kubernetes.
 
